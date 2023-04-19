@@ -1,0 +1,700 @@
+30/01/23 21:56:00 PM :: Serial close exception
+30/01/23 21:56:00 PM :: Closing serial thread exception
+30/01/23 21:56:00 PM :: Closing program
+30/01/23 21:56:18 PM :: starting program run
+30/01/23 21:56:18 PM :: Serial data write exception-scan instruction
+30/01/23 21:56:18 PM :: Serial data write exception-scan instruction
+30/01/23 21:56:18 PM :: Serial declare exception
+30/01/23 21:56:18 PM :: Thread declaration exception
+30/01/23 21:56:18 PM :: Thread start exception
+30/01/23 21:56:20 PM :: arduino not sensed
+30/01/23 21:56:25 PM :: Serial close exception
+30/01/23 21:56:25 PM :: Closing serial thread exception
+30/01/23 21:56:25 PM :: Closing program
+30/01/23 21:56:33 PM :: starting program run
+30/01/23 21:56:33 PM :: Serial data write exception-scan instruction
+30/01/23 21:56:33 PM :: Serial data write exception-scan instruction
+30/01/23 21:56:33 PM :: Serial declare exception
+30/01/23 21:56:33 PM :: Thread declaration exception
+30/01/23 21:56:33 PM :: Thread start exception
+30/01/23 21:56:34 PM :: arduino not sensed
+30/01/23 21:56:52 PM :: Serial close exception
+30/01/23 21:56:52 PM :: Closing serial thread exception
+30/01/23 21:56:52 PM :: Closing program
+30/01/23 21:57:44 PM :: starting program run
+30/01/23 21:57:44 PM :: Serial data write exception-scan instruction
+30/01/23 21:57:44 PM :: Serial data write exception-scan instruction
+30/01/23 21:57:44 PM :: connecting to /dev/ttyUSB0
+30/01/23 21:57:44 PM :: Serial variable created
+30/01/23 21:57:44 PM :: serial thread started
+30/01/23 21:59:52 PM :: starting program run
+30/01/23 21:59:52 PM :: Serial data write exception-scan instruction
+30/01/23 21:59:52 PM :: Serial data write exception-scan instruction
+30/01/23 21:59:52 PM :: connecting to /dev/ttyUSB0
+30/01/23 21:59:52 PM :: Serial variable created
+30/01/23 21:59:52 PM :: serial thread started
+30/01/23 22:02:15 PM :: Serial close exception
+30/01/23 22:02:15 PM :: Closing serial thread exception
+30/01/23 22:02:15 PM :: Closing program
+30/01/23 22:03:24 PM :: starting program run
+30/01/23 22:03:24 PM :: Serial data write exception-scan instruction
+30/01/23 22:03:24 PM :: Serial data write exception-scan instruction
+30/01/23 22:03:24 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:03:24 PM :: Serial variable created
+30/01/23 22:03:24 PM :: serial thread started
+30/01/23 22:03:40 PM :: Serial close exception
+30/01/23 22:03:40 PM :: Closing serial thread exception
+30/01/23 22:03:40 PM :: Closing program
+30/01/23 22:03:45 PM :: starting program run
+30/01/23 22:03:45 PM :: Serial data write exception-scan instruction
+30/01/23 22:03:45 PM :: Serial data write exception-scan instruction
+30/01/23 22:03:45 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:03:45 PM :: Serial variable created
+30/01/23 22:03:45 PM :: serial thread started
+30/01/23 22:04:55 PM :: Serial close exception
+30/01/23 22:04:55 PM :: Closing serial thread exception
+30/01/23 22:04:55 PM :: Closing program
+30/01/23 22:05:03 PM :: starting program run
+30/01/23 22:05:03 PM :: Serial data write exception-scan instruction
+30/01/23 22:05:03 PM :: Serial data write exception-scan instruction
+30/01/23 22:05:03 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:05:03 PM :: Serial variable created
+30/01/23 22:05:03 PM :: serial thread started
+30/01/23 22:05:05 PM :: Serial close exception
+30/01/23 22:05:05 PM :: Closing serial thread exception
+30/01/23 22:05:05 PM :: Closing program
+30/01/23 22:07:17 PM :: starting program run
+30/01/23 22:07:17 PM :: Serial data write exception-scan instruction
+30/01/23 22:07:17 PM :: Serial data write exception-scan instruction
+30/01/23 22:07:17 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:07:17 PM :: Serial variable created
+30/01/23 22:07:17 PM :: serial thread started
+30/01/23 22:08:58 PM :: Serial close exception
+30/01/23 22:08:58 PM :: Closing serial thread exception
+30/01/23 22:08:58 PM :: Closing program
+30/01/23 22:09:08 PM :: starting program run
+30/01/23 22:09:08 PM :: Serial data write exception-scan instruction
+30/01/23 22:09:08 PM :: Serial data write exception-scan instruction
+30/01/23 22:09:08 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:09:08 PM :: Serial variable created
+30/01/23 22:09:08 PM :: serial thread started
+30/01/23 22:09:10 PM :: Serial close exception
+30/01/23 22:09:10 PM :: Closing serial thread exception
+30/01/23 22:09:10 PM :: Closing program
+30/01/23 22:09:10 PM :: Serial data read exception
+30/01/23 22:11:09 PM :: starting program run
+30/01/23 22:11:09 PM :: Serial data write exception-scan instruction
+30/01/23 22:11:09 PM :: Serial data write exception-scan instruction
+30/01/23 22:11:09 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:11:09 PM :: Serial variable created
+30/01/23 22:11:09 PM :: serial thread started
+30/01/23 22:17:01 PM :: Serial close exception
+30/01/23 22:17:01 PM :: Closing serial thread exception
+30/01/23 22:17:01 PM :: Closing program
+30/01/23 22:19:35 PM :: starting program run
+30/01/23 22:19:35 PM :: Serial data write exception-scan instruction
+30/01/23 22:19:35 PM :: Serial data write exception-scan instruction
+30/01/23 22:19:35 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:19:35 PM :: Serial variable created
+30/01/23 22:19:35 PM :: serial thread started
+30/01/23 22:20:46 PM :: Serial close exception
+30/01/23 22:20:46 PM :: Closing serial thread exception
+30/01/23 22:20:46 PM :: Closing program
+30/01/23 22:20:46 PM :: Serial data read exception
+30/01/23 22:21:32 PM :: starting program run
+30/01/23 22:21:32 PM :: Serial data write exception-scan instruction
+30/01/23 22:21:32 PM :: Serial data write exception-scan instruction
+30/01/23 22:21:32 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:21:32 PM :: Serial variable created
+30/01/23 22:21:32 PM :: serial thread started
+30/01/23 22:24:18 PM :: starting program run
+30/01/23 22:24:18 PM :: Serial data write exception-scan instruction
+30/01/23 22:24:18 PM :: Serial data write exception-scan instruction
+30/01/23 22:24:18 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:24:18 PM :: Serial variable created
+30/01/23 22:24:18 PM :: serial thread started
+30/01/23 22:27:41 PM :: starting program run
+30/01/23 22:27:41 PM :: Serial data write exception-scan instruction
+30/01/23 22:27:41 PM :: Serial data write exception-scan instruction
+30/01/23 22:27:41 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:27:41 PM :: Serial variable created
+30/01/23 22:27:41 PM :: serial thread started
+30/01/23 22:27:43 PM :: Serial close exception
+30/01/23 22:27:43 PM :: Closing serial thread exception
+30/01/23 22:27:43 PM :: Closing program
+30/01/23 22:28:08 PM :: starting program run
+30/01/23 22:28:08 PM :: Serial data write exception-scan instruction
+30/01/23 22:28:08 PM :: Serial data write exception-scan instruction
+30/01/23 22:28:08 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:28:08 PM :: Serial variable created
+30/01/23 22:28:08 PM :: serial thread started
+30/01/23 22:28:10 PM :: Serial close exception
+30/01/23 22:28:10 PM :: Closing serial thread exception
+30/01/23 22:28:10 PM :: Closing program
+30/01/23 22:28:39 PM :: starting program run
+30/01/23 22:28:39 PM :: Serial data write exception-scan instruction
+30/01/23 22:28:39 PM :: Serial data write exception-scan instruction
+30/01/23 22:28:40 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:28:40 PM :: Serial variable created
+30/01/23 22:28:40 PM :: serial thread started
+30/01/23 22:28:43 PM :: Serial close exception
+30/01/23 22:28:43 PM :: Closing serial thread exception
+30/01/23 22:28:43 PM :: Closing program
+30/01/23 22:29:00 PM :: starting program run
+30/01/23 22:29:00 PM :: Serial data write exception-scan instruction
+30/01/23 22:29:00 PM :: Serial data write exception-scan instruction
+30/01/23 22:29:00 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:29:00 PM :: Serial variable created
+30/01/23 22:29:00 PM :: serial thread started
+30/01/23 22:29:35 PM :: Serial close exception
+30/01/23 22:29:35 PM :: Closing serial thread exception
+30/01/23 22:29:35 PM :: Closing program
+30/01/23 22:29:35 PM :: Serial data read exception
+30/01/23 22:29:44 PM :: starting program run
+30/01/23 22:29:44 PM :: Serial data write exception-scan instruction
+30/01/23 22:29:44 PM :: Serial data write exception-scan instruction
+30/01/23 22:29:44 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:29:44 PM :: Serial variable created
+30/01/23 22:29:44 PM :: serial thread started
+30/01/23 22:29:46 PM :: Serial close exception
+30/01/23 22:29:46 PM :: Closing serial thread exception
+30/01/23 22:29:46 PM :: Closing program
+30/01/23 22:29:46 PM :: Serial data read exception
+30/01/23 22:30:09 PM :: starting program run
+30/01/23 22:30:09 PM :: Serial data write exception-scan instruction
+30/01/23 22:30:09 PM :: Serial data write exception-scan instruction
+30/01/23 22:30:09 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:30:09 PM :: Serial variable created
+30/01/23 22:30:09 PM :: serial thread started
+30/01/23 22:30:13 PM :: Serial close exception
+30/01/23 22:30:13 PM :: Closing serial thread exception
+30/01/23 22:30:13 PM :: Closing program
+30/01/23 22:30:33 PM :: starting program run
+30/01/23 22:30:33 PM :: Serial data write exception-scan instruction
+30/01/23 22:30:33 PM :: Serial data write exception-scan instruction
+30/01/23 22:30:34 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:30:34 PM :: Serial variable created
+30/01/23 22:30:34 PM :: serial thread started
+30/01/23 22:32:35 PM :: Serial close exception
+30/01/23 22:32:35 PM :: Closing serial thread exception
+30/01/23 22:32:35 PM :: Closing program
+30/01/23 22:34:43 PM :: starting program run
+30/01/23 22:34:43 PM :: Serial data write exception-scan instruction
+30/01/23 22:34:43 PM :: Serial data write exception-scan instruction
+30/01/23 22:34:43 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:34:43 PM :: Serial variable created
+30/01/23 22:34:43 PM :: serial thread started
+30/01/23 22:37:20 PM :: Serial close exception
+30/01/23 22:37:20 PM :: Closing serial thread exception
+30/01/23 22:37:20 PM :: Closing program
+30/01/23 22:37:24 PM :: starting program run
+30/01/23 22:37:24 PM :: Serial data write exception-scan instruction
+30/01/23 22:37:24 PM :: Serial data write exception-scan instruction
+30/01/23 22:37:25 PM :: connecting to /dev/ttyUSB0
+30/01/23 22:37:25 PM :: Serial variable created
+30/01/23 22:37:25 PM :: serial thread started
+30/01/23 22:41:58 PM :: Serial close exception
+30/01/23 22:41:58 PM :: Closing serial thread exception
+30/01/23 22:41:58 PM :: Closing program
+30/01/23 23:06:46 PM :: starting program run
+30/01/23 23:06:46 PM :: Serial data write exception-scan instruction
+30/01/23 23:06:46 PM :: Serial data write exception-scan instruction
+30/01/23 23:06:47 PM :: connecting to /dev/ttyUSB0
+30/01/23 23:06:47 PM :: Serial variable created
+30/01/23 23:06:47 PM :: serial thread started
+30/01/23 23:23:43 PM :: Serial close exception
+30/01/23 23:23:43 PM :: Closing serial thread exception
+30/01/23 23:23:43 PM :: Closing program
+30/01/23 23:23:55 PM :: starting program run
+30/01/23 23:23:55 PM :: Serial data write exception-scan instruction
+30/01/23 23:23:55 PM :: Serial data write exception-scan instruction
+30/01/23 23:23:55 PM :: connecting to /dev/ttyUSB0
+30/01/23 23:23:55 PM :: Serial variable created
+30/01/23 23:23:55 PM :: serial thread started
+30/01/23 23:23:58 PM :: Serial close exception
+30/01/23 23:23:58 PM :: Closing serial thread exception
+30/01/23 23:23:58 PM :: Closing program
+30/01/23 23:23:58 PM :: Serial data read exception
+30/01/23 23:24:01 PM :: starting program run
+30/01/23 23:24:01 PM :: Serial data write exception-scan instruction
+30/01/23 23:24:01 PM :: Serial data write exception-scan instruction
+30/01/23 23:24:02 PM :: connecting to /dev/ttyUSB0
+30/01/23 23:24:02 PM :: Serial variable created
+30/01/23 23:24:02 PM :: serial thread started
+30/01/23 23:25:51 PM :: Serial close exception
+30/01/23 23:25:51 PM :: Closing serial thread exception
+30/01/23 23:25:51 PM :: Closing program
+30/01/23 23:26:34 PM :: starting program run
+30/01/23 23:26:34 PM :: Serial data write exception-scan instruction
+30/01/23 23:26:34 PM :: Serial data write exception-scan instruction
+30/01/23 23:26:35 PM :: connecting to /dev/ttyUSB0
+30/01/23 23:26:35 PM :: Serial variable created
+30/01/23 23:26:35 PM :: serial thread started
+30/01/23 23:39:21 PM :: Serial close exception
+30/01/23 23:39:21 PM :: Closing serial thread exception
+30/01/23 23:39:21 PM :: Closing program
+30/01/23 23:40:52 PM :: starting program run
+30/01/23 23:40:52 PM :: Serial data write exception-scan instruction
+30/01/23 23:40:52 PM :: Serial data write exception-scan instruction
+30/01/23 23:40:52 PM :: connecting to /dev/ttyUSB0
+30/01/23 23:40:52 PM :: Serial variable created
+30/01/23 23:40:52 PM :: serial thread started
+31/01/23 00:09:39 AM :: starting program run
+31/01/23 00:09:39 AM :: Serial data write exception-scan instruction
+31/01/23 00:09:39 AM :: Serial data write exception-scan instruction
+31/01/23 00:09:39 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:09:39 AM :: Serial variable created
+31/01/23 00:09:39 AM :: serial thread started
+31/01/23 00:19:24 AM :: starting program run
+31/01/23 00:19:24 AM :: Serial data write exception-scan instruction
+31/01/23 00:19:24 AM :: Serial data write exception-scan instruction
+31/01/23 00:19:24 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:19:24 AM :: Serial variable created
+31/01/23 00:19:24 AM :: serial thread started
+31/01/23 00:17:24 AM :: starting program run
+31/01/23 00:17:24 AM :: Serial data write exception-scan instruction
+31/01/23 00:17:24 AM :: Serial data write exception-scan instruction
+31/01/23 00:17:25 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:17:25 AM :: Serial variable created
+31/01/23 00:17:25 AM :: serial thread started
+31/01/23 00:17:36 AM :: starting program run
+31/01/23 00:17:36 AM :: Serial data write exception-scan instruction
+31/01/23 00:17:36 AM :: Serial data write exception-scan instruction
+31/01/23 00:17:36 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:17:36 AM :: Serial variable created
+31/01/23 00:17:36 AM :: serial thread started
+31/01/23 00:27:29 AM :: Serial close exception
+31/01/23 00:27:29 AM :: Closing serial thread exception
+31/01/23 00:27:29 AM :: Closing program
+31/01/23 00:28:36 AM :: starting program run
+31/01/23 00:28:36 AM :: Serial data write exception-scan instruction
+31/01/23 00:28:36 AM :: Serial data write exception-scan instruction
+31/01/23 00:28:36 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:28:36 AM :: Serial variable created
+31/01/23 00:28:36 AM :: serial thread started
+31/01/23 00:51:14 AM :: starting program run
+31/01/23 00:51:14 AM :: Serial data write exception-scan instruction
+31/01/23 00:51:14 AM :: Serial data write exception-scan instruction
+31/01/23 00:51:14 AM :: connecting to /dev/ttyUSB0
+31/01/23 00:51:14 AM :: Serial variable created
+31/01/23 00:51:14 AM :: serial thread started
+31/01/23 01:00:47 AM :: Serial close exception
+31/01/23 01:00:47 AM :: Closing serial thread exception
+31/01/23 01:00:47 AM :: Closing program
+31/01/23 01:01:51 AM :: starting program run
+31/01/23 01:01:51 AM :: Serial data write exception-scan instruction
+31/01/23 01:01:51 AM :: Serial data write exception-scan instruction
+31/01/23 01:01:52 AM :: connecting to /dev/ttyUSB0
+31/01/23 01:01:52 AM :: Serial variable created
+31/01/23 01:01:52 AM :: serial thread started
+31/01/23 01:30:10 AM :: Serial close exception
+31/01/23 01:30:10 AM :: Closing serial thread exception
+31/01/23 01:30:10 AM :: Closing program
+31/01/23 01:30:12 AM :: starting program run
+31/01/23 01:30:12 AM :: Serial data write exception-scan instruction
+31/01/23 01:30:12 AM :: Serial data write exception-scan instruction
+31/01/23 01:30:12 AM :: connecting to /dev/ttyUSB0
+31/01/23 01:30:12 AM :: Serial variable created
+31/01/23 01:30:12 AM :: serial thread started
+31/01/23 02:20:06 AM :: starting program run
+31/01/23 02:20:06 AM :: Serial data write exception-scan instruction
+31/01/23 02:20:06 AM :: Serial data write exception-scan instruction
+31/01/23 02:20:07 AM :: connecting to /dev/ttyUSB0
+31/01/23 02:20:07 AM :: Serial variable created
+31/01/23 02:20:07 AM :: serial thread started
+31/01/23 02:29:15 AM :: Serial close exception
+31/01/23 02:29:15 AM :: Closing serial thread exception
+31/01/23 02:29:15 AM :: Closing program
+31/01/23 02:46:11 AM :: starting program run
+31/01/23 02:46:11 AM :: Serial data write exception-scan instruction
+31/01/23 02:46:11 AM :: Serial data write exception-scan instruction
+31/01/23 02:46:11 AM :: Serial declare exception
+31/01/23 02:46:11 AM :: Thread declaration exception
+31/01/23 02:46:11 AM :: Thread start exception
+31/01/23 02:46:13 AM :: Serial close exception
+31/01/23 02:46:13 AM :: Closing serial thread exception
+31/01/23 02:46:13 AM :: Closing program
+31/01/23 02:51:56 AM :: starting program run
+31/01/23 02:51:56 AM :: Serial data write exception-scan instruction
+31/01/23 02:51:56 AM :: Serial data write exception-scan instruction
+31/01/23 02:51:56 AM :: Serial declare exception
+31/01/23 02:51:56 AM :: Thread declaration exception
+31/01/23 02:51:56 AM :: Thread start exception
+31/01/23 02:52:01 AM :: Serial close exception
+31/01/23 02:52:01 AM :: Closing serial thread exception
+31/01/23 02:52:01 AM :: Closing program
+31/01/23 02:53:18 AM :: starting program run
+31/01/23 02:53:18 AM :: Serial data write exception-scan instruction
+31/01/23 02:53:18 AM :: Serial data write exception-scan instruction
+31/01/23 02:53:18 AM :: Serial declare exception
+31/01/23 02:53:18 AM :: Thread declaration exception
+31/01/23 02:53:18 AM :: Thread start exception
+31/01/23 02:53:24 AM :: Serial close exception
+31/01/23 02:53:24 AM :: Closing serial thread exception
+31/01/23 02:53:24 AM :: Closing program
+31/01/23 02:56:36 AM :: starting program run
+31/01/23 02:56:36 AM :: Serial close exception
+31/01/23 02:56:36 AM :: Closing serial thread exception
+31/01/23 02:56:36 AM :: Closing program
+31/01/23 02:56:36 AM :: Serial close exception
+31/01/23 02:56:36 AM :: Closing serial thread exception
+31/01/23 02:56:36 AM :: Closing program
+31/01/23 02:57:22 AM :: starting program run
+31/01/23 02:57:22 AM :: Serial data write exception-scan instruction
+31/01/23 02:57:22 AM :: Serial data write exception-scan instruction
+31/01/23 02:57:22 AM :: Serial declare exception
+31/01/23 02:57:22 AM :: Thread declaration exception
+31/01/23 02:57:22 AM :: Thread start exception
+31/01/23 02:57:31 AM :: Serial close exception
+31/01/23 02:57:31 AM :: Closing serial thread exception
+31/01/23 02:57:31 AM :: Closing program
+31/01/23 02:58:29 AM :: starting program run
+31/01/23 02:58:29 AM :: Serial data write exception-scan instruction
+31/01/23 02:58:29 AM :: Serial data write exception-scan instruction
+31/01/23 02:58:29 AM :: Serial declare exception
+31/01/23 02:58:29 AM :: Thread declaration exception
+31/01/23 02:58:29 AM :: Thread start exception
+31/01/23 02:58:33 AM :: Serial close exception
+31/01/23 02:58:33 AM :: Closing serial thread exception
+31/01/23 02:58:33 AM :: Closing program
+31/01/23 02:59:00 AM :: starting program run
+31/01/23 02:59:00 AM :: Serial data write exception-scan instruction
+31/01/23 02:59:00 AM :: Serial data write exception-scan instruction
+31/01/23 02:59:00 AM :: Serial declare exception
+31/01/23 02:59:00 AM :: Thread declaration exception
+31/01/23 02:59:00 AM :: Thread start exception
+31/01/23 02:59:04 AM :: Serial close exception
+31/01/23 02:59:04 AM :: Closing serial thread exception
+31/01/23 02:59:04 AM :: Closing program
+31/01/23 02:59:51 AM :: starting program run
+31/01/23 02:59:51 AM :: Serial data write exception-scan instruction
+31/01/23 02:59:51 AM :: Serial data write exception-scan instruction
+31/01/23 02:59:52 AM :: Serial declare exception
+31/01/23 02:59:52 AM :: Thread declaration exception
+31/01/23 02:59:52 AM :: Thread start exception
+31/01/23 02:59:57 AM :: Serial close exception
+31/01/23 02:59:57 AM :: Closing serial thread exception
+31/01/23 02:59:57 AM :: Closing program
+31/01/23 03:12:49 AM :: starting program run
+31/01/23 03:12:49 AM :: Serial data write exception-scan instruction
+31/01/23 03:12:49 AM :: Serial data write exception-scan instruction
+31/01/23 03:12:49 AM :: Serial declare exception
+31/01/23 03:12:49 AM :: Thread declaration exception
+31/01/23 03:12:49 AM :: Thread start exception
+31/01/23 03:12:57 AM :: Serial close exception
+31/01/23 03:12:57 AM :: Closing serial thread exception
+31/01/23 03:12:57 AM :: Closing program
+31/01/23 03:13:03 AM :: starting program run
+31/01/23 03:13:03 AM :: Serial data write exception-scan instruction
+31/01/23 03:13:03 AM :: Serial data write exception-scan instruction
+31/01/23 03:13:03 AM :: Serial declare exception
+31/01/23 03:13:03 AM :: Thread declaration exception
+31/01/23 03:13:03 AM :: Thread start exception
+31/01/23 03:13:09 AM :: Serial close exception
+31/01/23 03:13:09 AM :: Closing serial thread exception
+31/01/23 03:13:09 AM :: Closing program
+31/01/23 03:17:25 AM :: starting program run
+31/01/23 03:17:25 AM :: Serial data write exception-scan instruction
+31/01/23 03:17:25 AM :: Serial data write exception-scan instruction
+31/01/23 03:17:25 AM :: Serial declare exception
+31/01/23 03:17:25 AM :: Thread declaration exception
+31/01/23 03:17:25 AM :: Thread start exception
+31/01/23 03:17:48 AM :: Serial close exception
+31/01/23 03:17:48 AM :: Closing serial thread exception
+31/01/23 03:17:48 AM :: Closing program
+31/01/23 03:21:26 AM :: starting program run
+31/01/23 03:21:26 AM :: Serial data write exception-scan instruction
+31/01/23 03:21:26 AM :: Serial data write exception-scan instruction
+31/01/23 03:21:26 AM :: Serial declare exception
+31/01/23 03:21:26 AM :: Thread declaration exception
+31/01/23 03:21:26 AM :: Thread start exception
+31/01/23 03:21:39 AM :: Serial close exception
+31/01/23 03:21:39 AM :: Closing serial thread exception
+31/01/23 03:21:39 AM :: Closing program
+31/01/23 03:22:16 AM :: starting program run
+31/01/23 03:22:16 AM :: Serial data write exception-scan instruction
+31/01/23 03:22:16 AM :: Serial data write exception-scan instruction
+31/01/23 03:22:16 AM :: Serial declare exception
+31/01/23 03:22:16 AM :: Thread declaration exception
+31/01/23 03:22:16 AM :: Thread start exception
+31/01/23 03:22:18 AM :: Serial close exception
+31/01/23 03:22:18 AM :: Closing serial thread exception
+31/01/23 03:22:18 AM :: Closing program
+31/01/23 03:22:32 AM :: starting program run
+31/01/23 03:22:32 AM :: Serial data write exception-scan instruction
+31/01/23 03:22:32 AM :: Serial data write exception-scan instruction
+31/01/23 03:22:32 AM :: Serial declare exception
+31/01/23 03:22:32 AM :: Thread declaration exception
+31/01/23 03:22:32 AM :: Thread start exception
+31/01/23 03:22:35 AM :: Serial close exception
+31/01/23 03:22:35 AM :: Closing serial thread exception
+31/01/23 03:22:35 AM :: Closing program
+31/01/23 03:23:07 AM :: starting program run
+31/01/23 03:23:07 AM :: Serial data write exception-scan instruction
+31/01/23 03:23:07 AM :: Serial data write exception-scan instruction
+31/01/23 03:23:07 AM :: Serial declare exception
+31/01/23 03:23:07 AM :: Thread declaration exception
+31/01/23 03:23:07 AM :: Thread start exception
+31/01/23 03:23:13 AM :: Serial close exception
+31/01/23 03:23:13 AM :: Closing serial thread exception
+31/01/23 03:23:13 AM :: Closing program
+31/01/23 03:23:55 AM :: starting program run
+31/01/23 03:23:55 AM :: Serial data write exception-scan instruction
+31/01/23 03:23:55 AM :: Serial data write exception-scan instruction
+31/01/23 03:23:56 AM :: Serial declare exception
+31/01/23 03:23:56 AM :: Thread declaration exception
+31/01/23 03:23:56 AM :: Thread start exception
+31/01/23 03:24:05 AM :: Serial close exception
+31/01/23 03:24:05 AM :: Closing serial thread exception
+31/01/23 03:24:05 AM :: Closing program
+31/01/23 03:24:17 AM :: starting program run
+31/01/23 03:24:17 AM :: Serial data write exception-scan instruction
+31/01/23 03:24:17 AM :: Serial data write exception-scan instruction
+31/01/23 03:24:17 AM :: Serial declare exception
+31/01/23 03:24:17 AM :: Thread declaration exception
+31/01/23 03:24:17 AM :: Thread start exception
+31/01/23 03:25:07 AM :: Serial close exception
+31/01/23 03:25:07 AM :: Closing serial thread exception
+31/01/23 03:25:07 AM :: Closing program
+31/01/23 03:33:12 AM :: starting program run
+31/01/23 03:33:12 AM :: Serial data write exception-scan instruction
+31/01/23 03:33:12 AM :: Serial data write exception-scan instruction
+31/01/23 03:33:12 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:33:12 AM :: Serial variable created
+31/01/23 03:33:12 AM :: serial thread started
+31/01/23 03:33:54 AM :: Serial close exception
+31/01/23 03:33:54 AM :: Closing serial thread exception
+31/01/23 03:33:54 AM :: Closing program
+31/01/23 03:35:59 AM :: starting program run
+31/01/23 03:35:59 AM :: Serial data write exception-scan instruction
+31/01/23 03:35:59 AM :: Serial data write exception-scan instruction
+31/01/23 03:35:59 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:35:59 AM :: Serial variable created
+31/01/23 03:35:59 AM :: serial thread started
+31/01/23 03:37:52 AM :: starting program run
+31/01/23 03:37:52 AM :: Serial data write exception-scan instruction
+31/01/23 03:37:52 AM :: Serial data write exception-scan instruction
+31/01/23 03:37:53 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:37:53 AM :: Serial variable created
+31/01/23 03:37:53 AM :: serial thread started
+31/01/23 03:38:27 AM :: Serial close exception
+31/01/23 03:38:27 AM :: Closing serial thread exception
+31/01/23 03:38:27 AM :: Closing program
+31/01/23 03:38:31 AM :: starting program run
+31/01/23 03:38:31 AM :: Serial data write exception-scan instruction
+31/01/23 03:38:31 AM :: Serial data write exception-scan instruction
+31/01/23 03:38:31 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:38:31 AM :: Serial variable created
+31/01/23 03:38:31 AM :: serial thread started
+31/01/23 03:38:47 AM :: Serial close exception
+31/01/23 03:38:47 AM :: Closing serial thread exception
+31/01/23 03:38:47 AM :: Closing program
+31/01/23 03:42:25 AM :: starting program run
+31/01/23 03:42:25 AM :: Serial data write exception-scan instruction
+31/01/23 03:42:25 AM :: Serial data write exception-scan instruction
+31/01/23 03:42:26 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:42:26 AM :: Serial variable created
+31/01/23 03:42:26 AM :: serial thread started
+31/01/23 03:42:33 AM :: Serial close exception
+31/01/23 03:42:33 AM :: Closing serial thread exception
+31/01/23 03:42:33 AM :: Closing program
+31/01/23 03:44:29 AM :: starting program run
+31/01/23 03:44:29 AM :: Serial data write exception-scan instruction
+31/01/23 03:44:29 AM :: Serial data write exception-scan instruction
+31/01/23 03:44:29 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:44:29 AM :: Serial variable created
+31/01/23 03:44:29 AM :: serial thread started
+31/01/23 03:44:37 AM :: Serial close exception
+31/01/23 03:44:37 AM :: Closing serial thread exception
+31/01/23 03:44:37 AM :: Closing program
+31/01/23 03:46:07 AM :: starting program run
+31/01/23 03:46:07 AM :: Serial data write exception-scan instruction
+31/01/23 03:46:07 AM :: Serial data write exception-scan instruction
+31/01/23 03:46:07 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:46:07 AM :: Serial variable created
+31/01/23 03:46:07 AM :: serial thread started
+31/01/23 03:46:18 AM :: Serial close exception
+31/01/23 03:46:18 AM :: Closing serial thread exception
+31/01/23 03:46:18 AM :: Closing program
+31/01/23 03:46:27 AM :: starting program run
+31/01/23 03:46:27 AM :: Serial data write exception-scan instruction
+31/01/23 03:46:27 AM :: Serial data write exception-scan instruction
+31/01/23 03:46:27 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:46:27 AM :: Serial variable created
+31/01/23 03:46:27 AM :: serial thread started
+31/01/23 03:46:56 AM :: Serial close exception
+31/01/23 03:46:56 AM :: Closing serial thread exception
+31/01/23 03:46:56 AM :: Closing program
+31/01/23 03:47:16 AM :: starting program run
+31/01/23 03:47:16 AM :: Serial data write exception-scan instruction
+31/01/23 03:47:16 AM :: Serial data write exception-scan instruction
+31/01/23 03:47:16 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:47:16 AM :: Serial variable created
+31/01/23 03:47:16 AM :: serial thread started
+31/01/23 03:47:24 AM :: Serial close exception
+31/01/23 03:47:24 AM :: Closing serial thread exception
+31/01/23 03:47:24 AM :: Closing program
+31/01/23 03:47:38 AM :: starting program run
+31/01/23 03:47:38 AM :: Serial data write exception-scan instruction
+31/01/23 03:47:38 AM :: Serial data write exception-scan instruction
+31/01/23 03:47:38 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:47:38 AM :: Serial variable created
+31/01/23 03:47:38 AM :: serial thread started
+31/01/23 03:47:44 AM :: Serial close exception
+31/01/23 03:47:44 AM :: Closing serial thread exception
+31/01/23 03:47:44 AM :: Closing program
+31/01/23 03:50:54 AM :: starting program run
+31/01/23 03:50:54 AM :: Serial data write exception-scan instruction
+31/01/23 03:50:54 AM :: Serial data write exception-scan instruction
+31/01/23 03:50:55 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:50:55 AM :: Serial variable created
+31/01/23 03:50:55 AM :: serial thread started
+31/01/23 03:51:40 AM :: starting program run
+31/01/23 03:51:40 AM :: Serial data write exception-scan instruction
+31/01/23 03:51:40 AM :: Serial data write exception-scan instruction
+31/01/23 03:51:40 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:51:40 AM :: Serial variable created
+31/01/23 03:51:40 AM :: serial thread started
+31/01/23 03:53:11 AM :: Serial close exception
+31/01/23 03:53:11 AM :: Closing serial thread exception
+31/01/23 03:53:11 AM :: Closing program
+31/01/23 03:53:14 AM :: starting program run
+31/01/23 03:53:14 AM :: Serial data write exception-scan instruction
+31/01/23 03:53:14 AM :: Serial data write exception-scan instruction
+31/01/23 03:53:14 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:53:14 AM :: Serial variable created
+31/01/23 03:53:14 AM :: serial thread started
+31/01/23 03:53:21 AM :: Serial close exception
+31/01/23 03:53:21 AM :: Closing serial thread exception
+31/01/23 03:53:21 AM :: Closing program
+31/01/23 03:53:34 AM :: starting program run
+31/01/23 03:53:34 AM :: Serial data write exception-scan instruction
+31/01/23 03:53:34 AM :: Serial data write exception-scan instruction
+31/01/23 03:53:34 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:53:34 AM :: Serial variable created
+31/01/23 03:53:34 AM :: serial thread started
+31/01/23 03:54:20 AM :: Serial close exception
+31/01/23 03:54:20 AM :: Closing serial thread exception
+31/01/23 03:54:20 AM :: Closing program
+31/01/23 03:54:34 AM :: starting program run
+31/01/23 03:54:34 AM :: Serial data write exception-scan instruction
+31/01/23 03:54:34 AM :: Serial data write exception-scan instruction
+31/01/23 03:54:35 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:54:35 AM :: Serial variable created
+31/01/23 03:54:35 AM :: serial thread started
+31/01/23 03:54:44 AM :: Serial close exception
+31/01/23 03:54:44 AM :: Closing serial thread exception
+31/01/23 03:54:44 AM :: Closing program
+31/01/23 03:54:54 AM :: starting program run
+31/01/23 03:54:54 AM :: Serial data write exception-scan instruction
+31/01/23 03:54:54 AM :: Serial data write exception-scan instruction
+31/01/23 03:54:54 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:54:54 AM :: Serial variable created
+31/01/23 03:54:54 AM :: serial thread started
+31/01/23 03:55:39 AM :: Serial close exception
+31/01/23 03:55:39 AM :: Closing serial thread exception
+31/01/23 03:55:39 AM :: Closing program
+31/01/23 03:55:48 AM :: starting program run
+31/01/23 03:55:48 AM :: Serial data write exception-scan instruction
+31/01/23 03:55:48 AM :: Serial data write exception-scan instruction
+31/01/23 03:55:48 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:55:48 AM :: Serial variable created
+31/01/23 03:55:48 AM :: serial thread started
+31/01/23 03:55:52 AM :: Serial close exception
+31/01/23 03:55:52 AM :: Closing serial thread exception
+31/01/23 03:55:52 AM :: Closing program
+31/01/23 03:55:58 AM :: starting program run
+31/01/23 03:55:58 AM :: Serial data write exception-scan instruction
+31/01/23 03:55:58 AM :: Serial data write exception-scan instruction
+31/01/23 03:55:58 AM :: connecting to /dev/ttyUSB0
+31/01/23 03:55:58 AM :: Serial variable created
+31/01/23 03:55:58 AM :: serial thread started
+31/01/23 03:56:32 AM :: Serial close exception
+31/01/23 03:56:32 AM :: Closing serial thread exception
+31/01/23 03:56:32 AM :: Closing program
+31/01/23 04:01:53 AM :: starting program run
+31/01/23 04:01:53 AM :: Serial data write exception-scan instruction
+31/01/23 04:01:53 AM :: Serial data write exception-scan instruction
+31/01/23 04:01:53 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:01:53 AM :: Serial variable created
+31/01/23 04:01:53 AM :: serial thread started
+31/01/23 04:03:02 AM :: Serial close exception
+31/01/23 04:03:02 AM :: Closing serial thread exception
+31/01/23 04:03:02 AM :: Closing program
+31/01/23 04:03:02 AM :: Serial data read exception
+31/01/23 04:03:49 AM :: starting program run
+31/01/23 04:03:49 AM :: Serial data write exception-scan instruction
+31/01/23 04:03:49 AM :: Serial data write exception-scan instruction
+31/01/23 04:03:50 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:03:50 AM :: Serial variable created
+31/01/23 04:03:50 AM :: serial thread started
+31/01/23 04:04:09 AM :: Serial data read exception
+31/01/23 04:06:41 AM :: Serial data write exception-scan instruction
+31/01/23 04:06:54 AM :: Serial data write exception-scan instruction
+31/01/23 04:06:56 AM :: Serial close exception
+31/01/23 04:06:56 AM :: Closing serial thread exception
+31/01/23 04:06:56 AM :: Closing program
+31/01/23 04:07:06 AM :: starting program run
+31/01/23 04:07:06 AM :: Serial data write exception-scan instruction
+31/01/23 04:07:06 AM :: Serial data write exception-scan instruction
+31/01/23 04:07:06 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:07:06 AM :: Serial variable created
+31/01/23 04:07:06 AM :: serial thread started
+31/01/23 04:07:15 AM :: Serial close exception
+31/01/23 04:07:15 AM :: Closing serial thread exception
+31/01/23 04:07:15 AM :: Closing program
+31/01/23 04:07:44 AM :: starting program run
+31/01/23 04:07:44 AM :: Serial data write exception-scan instruction
+31/01/23 04:07:44 AM :: Serial data write exception-scan instruction
+31/01/23 04:07:44 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:07:44 AM :: Serial variable created
+31/01/23 04:07:44 AM :: serial thread started
+31/01/23 04:11:16 AM :: starting program run
+31/01/23 04:11:16 AM :: Serial data write exception-scan instruction
+31/01/23 04:11:16 AM :: Serial data write exception-scan instruction
+31/01/23 04:11:16 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:11:16 AM :: Serial variable created
+31/01/23 04:11:16 AM :: serial thread started
+31/01/23 04:12:12 AM :: Serial close exception
+31/01/23 04:12:12 AM :: Closing serial thread exception
+31/01/23 04:12:12 AM :: Closing program
+31/01/23 04:14:38 AM :: starting program run
+31/01/23 04:14:38 AM :: Serial data write exception-scan instruction
+31/01/23 04:14:38 AM :: Serial data write exception-scan instruction
+31/01/23 04:14:38 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:14:38 AM :: Serial variable created
+31/01/23 04:14:38 AM :: serial thread started
+31/01/23 04:15:32 AM :: Serial close exception
+31/01/23 04:15:32 AM :: Closing serial thread exception
+31/01/23 04:15:32 AM :: Closing program
+31/01/23 04:15:32 AM :: Serial data read exception
+31/01/23 04:17:48 AM :: starting program run
+31/01/23 04:17:48 AM :: Serial data write exception-scan instruction
+31/01/23 04:17:48 AM :: Serial data write exception-scan instruction
+31/01/23 04:17:48 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:17:48 AM :: Serial variable created
+31/01/23 04:17:48 AM :: serial thread started
+31/01/23 04:23:36 AM :: Serial close exception
+31/01/23 04:23:36 AM :: Closing serial thread exception
+31/01/23 04:23:36 AM :: Closing program
+31/01/23 04:25:27 AM :: starting program run
+31/01/23 04:25:27 AM :: Serial data write exception-scan instruction
+31/01/23 04:25:27 AM :: Serial data write exception-scan instruction
+31/01/23 04:25:27 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:25:27 AM :: Serial variable created
+31/01/23 04:25:27 AM :: serial thread started
+31/01/23 04:55:22 AM :: starting program run
+31/01/23 04:55:22 AM :: Serial data write exception-scan instruction
+31/01/23 04:55:22 AM :: Serial data write exception-scan instruction
+31/01/23 04:55:22 AM :: connecting to /dev/ttyUSB0
+31/01/23 04:55:22 AM :: Serial variable created
+31/01/23 04:55:22 AM :: serial thread started
+31/01/23 05:20:11 AM :: Serial close exception
+31/01/23 05:20:11 AM :: Closing serial thread exception
+31/01/23 05:20:11 AM :: Closing program
+31/01/23 05:20:17 AM :: starting program run
+31/01/23 05:20:17 AM :: Serial data write exception-scan instruction
+31/01/23 05:20:17 AM :: Serial data write exception-scan instruction
+31/01/23 05:20:17 AM :: connecting to /dev/ttyUSB0
+31/01/23 05:20:17 AM :: Serial variable created
+31/01/23 05:20:17 AM :: serial thread started
